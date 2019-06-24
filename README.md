@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-# Les bonnes pratiques HTML et CSS
+# Les bonnes pratiques HTML et CSS.
